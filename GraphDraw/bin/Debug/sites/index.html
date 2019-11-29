@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Построитель</title>
+	<style>
+   body {
+    background: #ADD8E6	; 
+    color: #000080; 
+   }
+	   button.new {
+    background: -moz-linear-gradient(#00BBD6, #EBFFFF);
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+    padding: 4px 8px;
+    color: #333;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 6px;
+    border: 1px solid #666;
+   }
+  </style>
+	<script>
+		function UpdateDiv()
+		{
+			var option = document.getElementById("function").value;
+
+			document.getElementById("body").innerHTML = "";
+			document.getElementById("body").innerHTML += '<input type="hidden" value="'+option+'" name="type"><br>';
+			document.getElementById("body").innerHTML += 'x:[<input type="text" name="x1"/> , <input type="text" name="x2"/>]<br>';
+			switch(option)
+			{
+				case "quadratic":
+					document.getElementById("body").innerHTML += 'a=<input type="text" name="a"/><br>';
+					document.getElementById("body").innerHTML += 'b=<input type="text" name="b"/><br>';
+					document.getElementById("body").innerHTML += 'c=<input type="text" name="c"/><br>';
+					break;
+
+				case "linear":
+					document.getElementById("body").innerHTML += 'k=<input type="text" name="k"/><br>';
+					document.getElementById("body").innerHTML += 'b=<input type="text" name="b"/><br>';
+					break;
+
+				case "power":
+					document.getElementById("body").innerHTML += 'k=<input type="text" name="k"/><br>';
+					break;
+					
+			}
+			
+			document.getElementById("body").innerHTML += '<p><button class="new" >  Построить </button></p>'
+		}
+					
+		function ClearCookie()
+		{
+			document.cookie = "login=0, password=0";
+			location.href="/";	
+		}
+	</script>
+</head>
+<body>
+<a href = "/" onclick="ClearCookie()">Выйти</a> 
+<p>Выберите функцию:</p>
+
+<p>
+	<select id="function" onchange = "UpdateDiv()">
+		<option selected disabled>Выберите функцию</option>
+		<option value="quadratic">y = ax^2+bx+c</option>
+		<option value="linear">y=kx+b</option>
+		<option value="power">y=x^k</option>
+
+	</select>
+</p>
+
+<form action = "getgraph" method = "get">
+	<div id = "body">
+
+	</div>
+</form>
+</body>
+</html>

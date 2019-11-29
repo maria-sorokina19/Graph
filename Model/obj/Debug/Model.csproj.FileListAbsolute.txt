@@ -1,0 +1,38 @@
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\Model.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\Model.pdb
+C:\Users\gcsof\source\repos\GraphDraw\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\gcsof\source\repos\GraphDraw\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\gcsof\source\repos\GraphDraw\Model\obj\Debug\Model.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\obj\Debug\Model.pdb
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\x86\sqlite3.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\x64\sqlite3.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\Model.dll.config
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\EntityFramework.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\EntityFramework.xml
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\gcsof\source\repos\GraphDraw\Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gcsof\source\repos\GraphDraw\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\x86\sqlite3.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\x64\sqlite3.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\Model.dll.config
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\Model.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\Model.pdb
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\EntityFramework.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\EntityFramework.xml
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\obj\Debug\Model.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\Model\obj\Debug\Model.pdb

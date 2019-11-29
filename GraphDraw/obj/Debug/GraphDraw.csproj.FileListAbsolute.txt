@@ -1,0 +1,32 @@
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\GraphDraw.exe.config
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\GraphDraw.exe
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\GraphDraw.pdb
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\Model.dll
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\Model.pdb
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csprojAssemblyReference.cache
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.CoreCompileInputs.cache
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.CopyComplete
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\obj\Debug\GraphDraw.exe
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\obj\Debug\GraphDraw.pdb
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\x86\sqlite3.dll
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\x64\sqlite3.dll
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\System.Data.SQLite.dll
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\Model.dll.config
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\System.Data.SQLite.xml
+C:\Users\gcsof\source\repos\GraphDraw\GraphDraw\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\x86\sqlite3.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\x64\sqlite3.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\GraphDraw.exe.config
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\GraphDraw.exe
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\GraphDraw.pdb
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\Model.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\System.Data.SQLite.dll
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\Model.pdb
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\Model.dll.config
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\System.Data.SQLite.xml
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csprojAssemblyReference.cache
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.CoreCompileInputs.cache
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.CopyComplete
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\obj\Debug\GraphDraw.exe
+C:\Users\Сорокина Мария\Desktop\GraphDraw\GraphDraw\GraphDraw\obj\Debug\GraphDraw.pdb

@@ -1,0 +1,56 @@
+<html>
+	<head>
+		<title>Вход</title>
+		<style>
+   body {
+    background: #ADD8E6	; 
+    color: #000080; 
+   }
+	   button.new {
+    background: -moz-linear-gradient(#00BBD6, #EBFFFF);
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+    padding: 4px 8px;
+    color: #333;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 6px;
+    border: 1px solid #666;
+   }
+    a{
+    background: -moz-linear-gradient(#00BBD6, #EBFFFF);
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+    padding: 4px 8px;
+    color: #333;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 6px;
+    border: 1px solid #666;
+   }
+	
+  </style>
+		<script>
+			function Login()
+			{
+				document.cookie = "login="+document.getElementById("loginField").value+", password="+document.getElementById("passwordField").value;
+				location.href="/";	
+			}
+		</script>
+	</head>
+	
+	<body>
+		<form method = "get" action = "checkuser">
+			<h1 align= "center" font color = "	4B0082">Программа для построения графиков функций</font></h1><hr>
+			<h2 align= "left">Пожалуйста, авторизируетесь </h2>
+			<h3 align= "left">Введите логин:</h3>
+			<input type="text" name="login" id="loginField"  />
+			<h3 align= "left">Введите пароль:</h3>
+			<input type="password" name="password" id="passwordField"/>
+			<p><button class="new" onClick="Login()" >  Вход в программу </button></p>
+			<p> <h4> Еще не зарегистрирован? Скорей пройди небольшую регистрацию!
+			<a href = "reguser">Регистрация</a></h4></p>
+</div>		
+		</form>
+	</body>
+</html>
